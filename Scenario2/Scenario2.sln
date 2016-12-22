@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scenario2", "Scenario2.csproj", "{A71778C0-8494-41E0-A122-E5C8917AC029}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scenario2Web", "..\Scenario2Web\Scenario2Web.csproj", "{E083AE40-305F-4AAB-870D-EE71F510F026}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A71778C0-8494-41E0-A122-E5C8917AC029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A71778C0-8494-41E0-A122-E5C8917AC029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A71778C0-8494-41E0-A122-E5C8917AC029}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A71778C0-8494-41E0-A122-E5C8917AC029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A71778C0-8494-41E0-A122-E5C8917AC029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A71778C0-8494-41E0-A122-E5C8917AC029}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E083AE40-305F-4AAB-870D-EE71F510F026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E083AE40-305F-4AAB-870D-EE71F510F026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E083AE40-305F-4AAB-870D-EE71F510F026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E083AE40-305F-4AAB-870D-EE71F510F026}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

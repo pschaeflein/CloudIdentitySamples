@@ -1,0 +1,3 @@
+WAAD Groups:
+	Client Id: 	f905baac-9b24-4975-8044-0f591018dc83
+    Application Key: 2ZXTbyemy47u2st+d/WM4mC+4yatmAmUiv5P4slA080=
